@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is the homepage of hapimn, welcome to come!
+This is the homepage of hapiman, welcome to come!
